@@ -11,6 +11,9 @@
 		3E9EFD2D25F79C93004B1A91 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E9EFD2C25F79C93004B1A91 /* ContentView.swift */; };
 		3E9EFD2F25F79C98004B1A91 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E9EFD2E25F79C98004B1A91 /* Assets.xcassets */; };
 		3E9EFD3225F79C98004B1A91 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E9EFD3125F79C98004B1A91 /* Preview Assets.xcassets */; };
+		3E9EFD3C25F79D12004B1A91 /* CharacterInputCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E9EFD3A25F79D12004B1A91 /* CharacterInputCell.swift */; };
+		3E9EFD3D25F79D12004B1A91 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E9EFD3B25F79D12004B1A91 /* CustomTextField.swift */; };
+		3E9EFD4025F79D69004B1A91 /* UIScreen+ScreenSize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E9EFD3F25F79D69004B1A91 /* UIScreen+ScreenSize.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +23,9 @@
 		3E9EFD2E25F79C98004B1A91 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3E9EFD3125F79C98004B1A91 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3E9EFD3325F79C98004B1A91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3E9EFD3A25F79D12004B1A91 /* CharacterInputCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CharacterInputCell.swift; sourceTree = "<group>"; };
+		3E9EFD3B25F79D12004B1A91 /* CustomTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
+		3E9EFD3F25F79D69004B1A91 /* UIScreen+ScreenSize.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIScreen+ScreenSize.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +60,9 @@
 			children = (
 				3E9EFD2A25F79C93004B1A91 /* CustomTextFieldList_SwiftUIApp.swift */,
 				3E9EFD2C25F79C93004B1A91 /* ContentView.swift */,
+				3E9EFD3A25F79D12004B1A91 /* CharacterInputCell.swift */,
+				3E9EFD3B25F79D12004B1A91 /* CustomTextField.swift */,
+				3E9EFD3F25F79D69004B1A91 /* UIScreen+ScreenSize.swift */,
 				3E9EFD2E25F79C98004B1A91 /* Assets.xcassets */,
 				3E9EFD3325F79C98004B1A91 /* Info.plist */,
 				3E9EFD3025F79C98004B1A91 /* Preview Content */,
@@ -138,6 +147,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3E9EFD3D25F79D12004B1A91 /* CustomTextField.swift in Sources */,
+				3E9EFD4025F79D69004B1A91 /* UIScreen+ScreenSize.swift in Sources */,
+				3E9EFD3C25F79D12004B1A91 /* CharacterInputCell.swift in Sources */,
 				3E9EFD2D25F79C93004B1A91 /* ContentView.swift in Sources */,
 				3E9EFD2B25F79C93004B1A91 /* CustomTextFieldList_SwiftUIApp.swift in Sources */,
 			);

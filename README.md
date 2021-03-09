@@ -8,7 +8,7 @@ List with TextField. If you push Enter in TextField, the cursor will move to nex
 # Application Image
 
 [](![CustomTextFieldList_SwiftUI_v_1_0_0.gif](ReadmeContents/CustomTextFieldList_SwiftUI_v_1_0_0.gif))
-<p align="center"> <img src="ReadmeContents/CustomTextFieldList_SwiftUI_v_1_0_0.png" alt="CustomTextFieldList_SwiftUI_v_1_0_0" width="250" border="1"/> </p>
+<p align="center"> <img src="ReadmeContents/CustomTextFieldList_SwiftUI_v_1_0_0.gif" alt="CustomTextFieldList_SwiftUI_v_1_0_0" width="250" border="1"/> </p>
 
 
 ## Release History

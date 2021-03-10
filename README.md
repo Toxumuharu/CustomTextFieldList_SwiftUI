@@ -1,5 +1,5 @@
 # CustomTextFieldList_SwiftUI
-> List with TextField.
+> Enter enables to junp to next TextField.
 
 [![Generic badge](https://img.shields.io/badge/version-1.0.0-green.svg)](https://shields.io/)
 
